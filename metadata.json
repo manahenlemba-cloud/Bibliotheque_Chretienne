@@ -1,0 +1,7 @@
+{
+  "name": "La Bibliothèque Chrétienne de la Dernière Heure",
+  "description": "Bibliothèque chrétienne numérique moderne : découverte, lecture en ligne et synthèse vocale audio (TTS) de livres chrétiens et théologiques, téléchargement, Bible intégrée et assistant IA spécialisé.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

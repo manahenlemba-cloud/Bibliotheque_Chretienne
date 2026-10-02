@@ -1,0 +1,16 @@
+{
+  "short_name": "Bibliothèque DH",
+  "name": "La Bibliothèque Chrétienne de la Dernière Heure",
+  "icons": [
+    {
+      "src": "/images/les-5-etapes-spirituelles.jpg",
+      "type": "image/jpeg",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#020617",
+  "theme_color": "#0284c7",
+  "display": "standalone",
+  "orientation": "portrait"
+}

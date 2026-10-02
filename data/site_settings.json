@@ -1,0 +1,87 @@
+{
+  "siteName": "La Bibliothèque Chrétienne de la Dernière Heure",
+  "siteSubtitle": "Édification, Réveil Spirituel & Sanctification",
+  "libraryTitle": "Collection Complète des Ouvrages de Sanctification",
+  "siteNotice": "Base documentaire consacrée à la sainte veille, la sanctification et la préparation au retour du Seigneur Jésus-Christ.",
+  "heroTitle": "Bibliothèque Complète de Réveil et de Sanctification",
+  "heroDescription": "Ouvrages magistraux et études théologiques bibliques fondés sur 1 Pierre 5:10, centrés sur la préparation de l'Église pour le retour glorieux de notre Seigneur Jésus-Christ.",
+  "heroBadge": "Dernière Heure & Sanctification",
+  "authorName": "Docteur LEMBA KAVUMBULA MOÏSE",
+  "authorTitle": "Docteur en Théologie, Serviteur de Jésus-Christ",
+  "authorBio": "Auteur et enseignant de la saine doctrine biblique, le Docteur LEMBA KAVUMBULA MOÏSE consacre son ministère à l'affermissement des disciples de Christ à travers les cinq étapes cardinales : Appel, Souffrance, Perfectionnement, Affermissement et Fortification.",
+  "authorPhotoUrl": "",
+  "showcaseCoverImage": "",
+  "heroBackgroundImage": "",
+  "logoUrl": "",
+  "overseerNotice": "Toute cette œuvre est chapeautée par le Serviteur de Dieu KAYEMBE MWANANGIZI Lawi ainsi que les anciens de l'église.",
+  "seniorPastorName": "Le Serviteur de Dieu KAYEMBE MWANANGIZI Lawi",
+  "seniorPastorPhone": "+243 817 974 033",
+  "assistantPastorName": "Le Pasteur LUKANGILA FARIALA Manassé",
+  "assistantPastorPhone": "+243 823 844 629",
+  "churchName": "Église Cereshe/OUA",
+  "announcementBanner": {
+    "active": true,
+    "badge": "Dernière Heure",
+    "text": "Bibliothèque Chrétienne de Réveil et d'Édification Spirituelle — Découvrez le parcours des 5 Étapes Spirituelles selon 1 Pierre 5:10.",
+    "linkText": "Explorer le Parcours",
+    "linkView": "spiritual-steps"
+  },
+  "dailyVerse": {
+    "reference": "1 Pierre 5:10",
+    "text": "Le Dieu de toute grâce, qui vous a appelés en Jésus-Christ à sa gloire éternelle, après que vous aurez souffert un peu de temps, vous perfectionnera lui-même, vous affermira, vous fortifiera, vous rendra inébranlables.",
+    "theme": "La Grâce Souveraine & Le Perfectionnement Divin"
+  },
+  "contactEmail": "bibliothequechretien@gmail.com",
+  "contactPhone": "+243 817 974 033",
+  "contactAddress": "Centre du Réveil Spirituel de la dernière Heure / Ministère d'Évangélisation Internationale",
+  "adminContact": {
+    "name": "Dr. LEMBA KAVUMBULA Moïse",
+    "phone": "+243811733778",
+    "email": "bibliothequechretien@gmail.com"
+  },
+  "googleDriveUrl": "https://drive.google.com/drive/folders/bibliothequechretien",
+  "officialSocialLink": "",
+  "footerText": "Toute cette œuvre est chapeautée par le Serviteur de Dieu KAYEMBE MWANANGIZI Lawi ainsi que les anciens de l'église.",
+  "copyrightNotice": "Tous droits réservés. Gloire à Dieu seul.",
+  "categories": [
+    "Vie Chrétienne & Sanctification",
+    "Prière & Intercession",
+    "Foi & Encouragement",
+    "Ministère & Réveil",
+    "Édification Spirituelle"
+  ],
+  "supportedLanguages": [
+    {
+      "code": "fr",
+      "label": "Français",
+      "nativeLabel": "Français",
+      "flag": "🇫🇷",
+      "active": true,
+      "bibleVersionId": "LSG"
+    },
+    {
+      "code": "en",
+      "label": "English",
+      "nativeLabel": "English",
+      "flag": "🇬🇧",
+      "active": true,
+      "bibleVersionId": "KJV"
+    },
+    {
+      "code": "sw",
+      "label": "Kiswahili",
+      "nativeLabel": "Kiswahili",
+      "flag": "🇹🇿",
+      "active": true,
+      "bibleVersionId": "SW-ZAN"
+    },
+    {
+      "code": "ln",
+      "label": "Lingála",
+      "nativeLabel": "Lingála",
+      "flag": "🇨🇩",
+      "active": true,
+      "bibleVersionId": "LN-BIB"
+    }
+  ]
+}
